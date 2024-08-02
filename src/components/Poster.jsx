@@ -10,7 +10,7 @@ const Poster = ()=>{
 
 
 
-        <div class='absolute size-48 max-sm:right-0 z-50 sm:max-lg:left-16 top-4' >
+        <div class='absolute max-sm:size-28 size-48 max-sm:right-2 lg:left-4 top-2 z-50  ' >
 
 
 

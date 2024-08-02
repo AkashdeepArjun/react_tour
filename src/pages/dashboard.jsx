@@ -23,7 +23,7 @@ const Dash = ()=>{
       <>
 
 
-        <div class='p-16 absolute top-64 grid grid-cols-3 sm:max-md:grid-cols-2 max-sm:grid-cols-1 gap-4  '>
+        <div class='p-2 absolute top-40 lg:top-36 max-[320px]:top-40 :sm:max-sm:left-2 left-48 lg:left-52 max-md:left-2  grid max-[320px]:grid-cols-1 grid-cols-2   lg:grid-cols-3  gap-4  '>
 
              <CardUi title="Repository" info="200+" icon={logo} />
               
