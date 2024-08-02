@@ -12,7 +12,7 @@ const NavBarUi =()=>{
 
     
 
-      <div class=' absolute h-1/4  bg-purple-300 w-full z-10 '>
+      <div class=' absolute h-1/4  bg-purple-900 w-full z-10 '>
 
         
         <LinksUi/>

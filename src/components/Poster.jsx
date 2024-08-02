@@ -10,11 +10,11 @@ const Poster = ()=>{
 
 
 
-        <div class='absolute w-1/2 h-1/2 z-50'>
+        <div class='absolute size-48 max-sm:right-0 z-50 sm:max-lg:left-16 top-4' >
 
 
 
-          <img src={pic} class='h-1/8 w-1/2 sm,md:rounded-full'/>
+          <img src={pic} class='border-black border-4'/>
   
 
 
